@@ -122,7 +122,7 @@ Live tests assume a live resource exists. The Azure Marketplace team has this va
 
 ## Versions and versioning
 
-When updating the version of the library, make sure to make changes to [pom.xml](./sdk/pom.xml) and to the documentation [start page](README.md).
+When updating the version of the library, make sure to make changes to [pom.xml](pom.xml) and to the documentation [start page](README.md).
 
 ### What does the process look like?
 
